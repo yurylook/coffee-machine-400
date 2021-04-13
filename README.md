@@ -1,3 +1,5 @@
-# coffee-machine-400
+# coffee-machine
 
-Макет кофе-машины для группы 400
+Учебная кофе машина с использованием стека:
+
+HTML5 + CSS3 + Bootstrap 4 + JS

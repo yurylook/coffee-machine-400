@@ -39,6 +39,8 @@
 	min-height: 100px;
 	background-color: lightgreen;
 	border: 3px solid green;
+	white-space:pre-wrap;
+	font-size: 15px;
 	box-sizing: border-box;
 }
 

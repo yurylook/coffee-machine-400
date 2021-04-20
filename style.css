@@ -81,3 +81,17 @@
 	cursor: pointer;
 	user-select: none;
 }
+
+.coin {
+	height: 50px;
+	width: 50px;
+	cursor: pointer;
+	display: inline-block;
+	position: absolute;
+	user-select: none;
+}
+
+.coin img {
+	height: 50px;
+	width: 50px;
+}
